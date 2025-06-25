@@ -13,7 +13,7 @@ Este es un proyecto simple de Pokédex desarrollado en Python usando la bibliote
 
 ## Características
 
-- Búsqueda por nombre
+- Búsqueda por nombre y por ID
 - Mostrar ID, tipo, estadísticas y habilidades
 - Carga de imágenes desde la API
 - Interfaz limpia y fácil de usar
