@@ -43,3 +43,10 @@ Permite buscar Pokémon por nombre o ID mediante la [PokeAPI]( https://pokeapi.c
 
 ```bash
 pip install requests pillow
+
+## 📌 Recomendaciones adicionales
+
+- Si quieres personalizar aún más, puedes agregar badges al inicio:
+  ```markdown
+  ![GitHub issues](https://img.shields.io/github/issues/N1coTom55/pokedex-tkinter?style=flat-square)
+  ![GitHub last commit]( https://img.shields.io/github/last-commit/N1coTom55/pokedex-tkinter?style=flat-square)
