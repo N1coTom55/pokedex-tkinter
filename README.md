@@ -1,6 +1,6 @@
 # 🔍 Pokédex con Python y Tkinter
 
-![Python](https://img.shields.io/badge/python-3.7%2B-blue?logo=python&style=flat-square)
+![Python](https://img.shields.io/badge/python-3.8%2B-blue?logo=python&style=flat-square)
 ![License]( https://img.shields.io/github/license/N1coTom55/pokedex-tkinter?style=flat-square)
 
 Este es un proyecto de **Pokédex desarrollado en Python** utilizando la biblioteca gráfica **Tkinter**.  
