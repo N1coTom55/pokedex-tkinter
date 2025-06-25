@@ -1,251 +1,370 @@
-<!-- Header con animación de ondas -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Pokédx%20Tkinter&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Explora%20el%20mundo%20Pokémon%20con%20Python&descAlignY=55&descSize=20" />
-</div>
-
+# 
 <div align="center">
   
-  <!-- Badges animados con pulse -->
-  <a href="#"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue&color=306998" alt="Python"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Tkinter-FF6B6B?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/PokéAPI-FFCB05?style=for-the-badge&logo=pokemon&logoColor=3D7DCA" alt="PokeAPI"/></a>
-  
-  <br><br>
-  
-  <!-- Contador de visitantes animado -->
-  <img src="https://komarev.com/ghpvc/?username=pokedex-tkinter&color=blueviolet&style=for-the-badge&label=EXPLORADORES" alt="Visitantes"/>
-  
-</div>
+<!-- Header estilo Pokémon con logo y efectos -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&text=&fontSize=80&fontAlignY=40&animation=fadeIn" />
 
-<!-- Separador animado -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://github.com/user-attachments/assets/9afe6f27-d94f-4e35-bc94-b86f6157930f" alt="Pokédex Logo" width="120" />
 
-## 🌟 **Acerca del Proyecto**
+<!-- Título con efecto Pokémon -->
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pokemon+Solid&size=40&duration=2000&pause=500&color=FFCB05&center=true&vCenter=true&repeat=true&width=600&height=80&lines=⚡+POKÉDEX+DIGITAL+⚡;🔥+PYTHON+EDITION+🔥;💎+GOTTA+CODE+EM+ALL+💎" alt="Pokemon Title" />
+</h1>
 
-<table>
-<tr>
-<td width="50%">
-
-### 🎯 **¿Qué es esto?**
-
-Una **Pokédex interactiva** construida con Python que te permite:
-
-- 🔍 **Buscar** cualquier Pokémon
-- 📊 **Visualizar** sus estadísticas
-- 🖼️ **Ver** imágenes oficiales
-- ⚡ **Navegar** sin interrupciones
-
-</td>
-<td width="50%">
-
-<div align="center">
-  <img src="https://media.giphy.com/media/BdghqxNFV4efm/giphy.gif" width="200" alt="Pikachu"/>
-</div>
-
-</td>
-</tr>
-</table>
-
-## 🚀 **Demo en Acción**
-
-<div align="center">
-  
-  <!-- Slider de capturas con efecto hover -->
-  <img src="https://github.com/user-attachments/assets/e9e2acfc-4c8f-4478-b0d6-a5c6527bb2de" width="400" alt="Interfaz Principal"/>
-  <img src="https://github.com/user-attachments/assets/97bb28f5-7d49-4c66-8b5d-253154f60e48" width="400" alt="Información Detallada"/>
-  
-  <br>
-  
-  <sub>🖱️ <i>Interfaz limpia y moderna para la mejor experiencia de usuario</i></sub>
-  
-</div>
-
-<!-- Línea divisora ondulada -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## ⚡ **Características Principales**
-
-<div align="center">
-
-<!-- Grid de características con iconos -->
-| 🔎 Búsqueda Inteligente | 📈 Estadísticas Completas | 🎨 Interfaz Moderna | 🔄 Actualizaciones en Tiempo Real |
-|:---:|:---:|:---:|:---:|
-| Busca por nombre o número | Stats de combate detalladas | Diseño minimalista | Sin bloqueos ni esperas |
+<!-- Pokémon sprites animados -->
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/25.gif" width="80" alt="Pikachu">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/6.gif" width="80" alt="Charizard">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/9.gif" width="80" alt="Blastoise">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/3.gif" width="80" alt="Venusaur">
 
 </div>
-
-### 🎮 **Funcionalidades Avanzadas**
-
-```yaml
-🔹 Búsqueda:
-  - Por nombre (ej: "pikachu")
-  - Por ID numérico (ej: "25")
-  - Búsqueda insensible a mayúsculas
-
-🔹 Información mostrada:
-  - Datos básicos (nombre, ID, tipos)
-  - Medidas físicas (altura, peso)
-  - Estadísticas de combate
-  - Habilidades especiales
-  - Imagen oficial de alta calidad
-
-🔹 Tecnología:
-  - Threading para rendimiento
-  - Manejo robusto de errores
-  - Cache inteligente de imágenes
-```
-
-<!-- Separador con gradiente -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🛠️ **Instalación Express**
-
-<div align="center">
-
-### 📦 **Método Rápido**
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-**1️⃣ Clonar el repositorio**
-```bash
-git clone https://github.com/N1coTom55/pokedex-tkinter.git
-cd pokedex-tkinter
-```
-
-**2️⃣ Instalar dependencias**
-```bash
-pip install -r requirements.txt
-```
-
-**3️⃣ Ejecutar la aplicación**
-```bash
-python pokedex.py
-```
-
-</td>
-<td width="50%">
-
-<div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" alt="Instalación"/>
-</div>
-
-</td>
-</tr>
-</table>
-
-### 🧾 **Dependencias Requeridas**
-
-<div align="center">
-
-| Paquete | Versión | Uso |
-|---------|---------|-----|
-| ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python) | `3.8+` | Lenguaje base |
-| ![Requests](https://img.shields.io/badge/requests-latest-green?style=flat-square) | `latest` | HTTP requests |
-| ![Pillow](https://img.shields.io/badge/Pillow-latest-orange?style=flat-square) | `latest` | Procesamiento de imágenes |
-
-</div>
-
-<!-- Línea divisora -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🎯 **Cómo Funciona**
-
-<div align="center">
-
-```mermaid
-graph TD
-    A[🎮 Usuario ingresa búsqueda] --> B{🔍 Validar entrada}
-    B -->|✅ Válida| C[📡 Consultar PokeAPI]
-    B -->|❌ Inválida| D[⚠️ Mostrar error]
-    C --> E{🌐 Respuesta API}
-    E -->|✅ Éxito| F[📊 Procesar datos]
-    E -->|❌ Error| G[🚫 Pokémon no encontrado]
-    F --> H[🖼️ Descargar imagen]
-    H --> I[✨ Mostrar resultado]
-    D --> A
-    G --> A
-    I --> J[🎉 ¡Pokémon encontrado!]
-    
-    style A fill:#FFE4B5
-    style C fill:#98FB98
-    style F fill:#87CEEB
-    style I fill:#DDA0DD
-    style J fill:#F0E68C
-```
-
-</div>
-
-<!-- Separador especial -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&height=100&lines=🔥+Proyecto+Open+Source;🌟+Hecho+con+amor+para+la+comunidad;⚡+¡Contribuciones+bienvenidas!" alt="Typing SVG" />
-</div>
-
-## 🤝 **Contribuir al Proyecto**
-
-<details>
-<summary>📋 <strong>Guía de Contribución</strong></summary>
-
-### 🌟 **Formas de Contribuir**
-
-- 🐛 **Reportar bugs** - Abre un issue
-- 💡 **Sugerir features** - Comparte tus ideas
-- 🔧 **Enviar Pull Requests** - Mejora el código
-- 📖 **Mejorar documentación** - Ayuda a otros usuarios
-
-### 🚀 **Proceso de Contribución**
-
-1. **Fork** este repositorio
-2. **Crea** una rama para tu feature (`git checkout -b feature/awesome-feature`)
-3. **Commit** tus cambios (`git commit -m 'Add awesome feature'`)
-4. **Push** a tu rama (`git push origin feature/awesome-feature`)
-5. **Abre** un Pull Request
-
-</details>
-
-<!-- Estadísticas del proyecto -->
-<div align="center">
-
-## 📊 **Estadísticas del Proyecto**
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=N1coTom55&repo=pokedex-tkinter&theme=tokyonight&show_icons=true&hide_border=true" alt="Repo Stats"/>
-
-</div>
-
-<!-- Footer con ondas -->
-<div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&animation=twinkling" />
-  
-  <br>
-  
-  **Hecho con ❤️ y mucho ☕**
-  
-  <sub>© 2024 - Pokédex Tkinter Project</sub>
-  
-  <br><br>
-  
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N1coTom55)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
-  
-</div>
-
-<!-- Easter egg oculto -->
-<!-- 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⣀⣤⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⣿⣿⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠛⠿⠿⠿⠛⠃⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Pikachu⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀was here! ⚡⠀⠀⠀⠀⠀⠀⠀⠀
--->
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=⭐+Si+te+gustó+el+proyecto,+deja+una+estrella!;🚀+¡Sígueme+para+más+proyectos+increíbles!;🎮+Gotta+code+'em+all!" alt="Final Message" />
+
+<!-- Badges estilo Pokémon -->
+![Pokémon](https://img.shields.io/badge/Pokémon-FFCB05?style=for-the-badge&logo=pokemon&logoColor=3D7DCA&labelColor=CC0000)
+![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=1e415e)
+![Tkinter](https://img.shields.io/badge/Tkinter-FF6B6B?style=for-the-badge&logo=python&logoColor=white&labelColor=cc5555)
+![PokéAPI](https://img.shields.io/badge/PokéAPI-36393f?style=for-the-badge&logo=pokemon&logoColor=FFCB05&labelColor=2c2f33)
+
+<br>
+
+<!-- Stats estilo juego Pokémon -->
+![Nivel](https://img.shields.io/badge/NIVEL-100-success?style=for-the-badge&logo=level-up-alt&logoColor=white)
+![HP](https://img.shields.io/badge/HP-999/999-critical?style=for-the-badge&logo=heart&logoColor=white)
+![Tipo](https://img.shields.io/badge/TIPO-ELÉCTRICO-yellow?style=for-the-badge&logo=bolt&logoColor=white)
+
+</div>
+
+## 🌟 **ENTRADA DE LA POKÉDEX**
+
+<div align="center">
+<table>
+<tr>
+<td width="60%">
+
+```yaml
+🔴 POKÉDEX NACIONAL - ENTRADA #001
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📱 DISPOSITIVO: Pokédex Digital Python
+🏷️  NOMBRE: Pokédex Tkinter Edition
+🎯 TIPO: Aplicación/Utilidad
+📊 ESTADÍSTICAS:
+   • Velocidad de búsqueda: ⭐⭐⭐⭐⭐
+   • Precisión de datos: ⭐⭐⭐⭐⭐
+   • Facilidad de uso: ⭐⭐⭐⭐⭐
+   • Diseño visual: ⭐⭐⭐⭐⭐
+
+🔹 DESCRIPCIÓN:
+Una Pokédex digital que conecta con la 
+base de datos mundial de Pokémon para 
+brindarte información completa sobre 
+cualquier criatura que busques.
+
+⚡ HABILIDADES ESPECIALES:
+- Búsqueda instantánea
+- Información detallada
+- Imágenes oficiales
+- Interface amigable
+```
+
+</td>
+<td width="40%">
+
+<div align="center">
+  <img src="https://media.giphy.com/media/W04QVzelTHsNW/giphy.gif" width="200" alt="Pokédex Gif"/>
+  <br>
+  <sub><i>🎮 "Esta Pokédex contiene datos de todos los Pokémon conocidos"</i></sub>
+</div>
+
+</td>
+</tr>
+</table>
+</div>
+
+## 🎮 **CAPTURAS DE PANTALLA**
+
+<div align="center">
+
+### 📱 **Interfaz Principal - Modo Explorador**
+
+<img src="https://github.com/user-attachments/assets/e9e2acfc-4c8f-4478-b0d6-a5c6527bb2de" width="45%" alt="Búsqueda de Pokémon"/>
+<img src="https://github.com/user-attachments/assets/97bb28f5-7d49-4c66-8b5d-253154f60e48" width="45%" alt="Información detallada"/>
+
+<br>
+
+*🔍 Busca cualquier Pokémon por nombre o número de la Pokédex Nacional*
+
+</div>
+
+---
+
+## ⚔️ **MOVIMIENTOS ESPECIALES** (Características)
+
+<div align="center">
+
+<table>
+<tr>
+<th>🔥 ATAQUE</th>
+<th>💧 DEFENSA</th>
+<th>⚡ VELOCIDAD</th>
+<th>🌟 ESPECIAL</th>
+</tr>
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="30"><br>
+<strong>Búsqueda Rápida</strong><br>
+<small>Por nombre o ID</small>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/great-ball.png" width="30"><br>
+<strong>Datos Completos</strong><br>
+<small>Stats y habilidades</small>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ultra-ball.png" width="30"><br>
+<strong>Carga Instantánea</strong><br>
+<small>Sin bloqueos</small>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/master-ball.png" width="30"><br>
+<strong>Imágenes HD</strong><br>
+<small>Arte oficial</small>
+</td>
+</tr>
+</table>
+
+</div>
+
+### 🎯 **LISTA DE MOVIMIENTOS**
+
+<details>
+<summary>📋 <strong>Ver todos los movimientos disponibles</strong></summary>
+
+```
+🔸 MOVIMIENTOS DE BÚSQUEDA:
+   ├─ 🔍 Búsqueda por Nombre
+   ├─ 🔢 Búsqueda por ID Nacional
+   └─ 🎯 Búsqueda Inteligente (auto-detección)
+
+🔸 MOVIMIENTOS DE INFORMACIÓN:
+   ├─ 📊 Mostrar Estadísticas Base
+   ├─ 📏 Datos Físicos (Altura/Peso)
+   ├─ 🏷️ Tipos Pokémon
+   ├─ ⚡ Lista de Habilidades
+   └─ 🖼️ Imagen Oficial
+
+🔸 MOVIMIENTOS DE INTERFACE:
+   ├─ 📱 Scroll Vertical Suave
+   ├─ 🔄 Threading (Sin Bloqueos)
+   ├─ ⚠️ Manejo de Errores
+   └─ 🎨 Interface Responsive
+```
+
+</details>
+
+---
+
+## 🎒 **MOCHILA DE ENTRENADOR** (Instalación)
+
+<div align="center">
+
+### 📦 **OBJETOS NECESARIOS**
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png" width="30" alt="TM"> **Python 3.8+**
+```bash
+# Verificar instalación
+python --version
+```
+
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-fighting.png" width="30" alt="TM"> **Requests**
+```bash
+pip install requests
+```
+
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-psychic.png" width="30" alt="TM"> **Pillow**
+```bash
+pip install Pillow
+```
+
+</td>
+<td width="50%">
+
+<div align="center">
+<img src="https://media.giphy.com/media/msKNSs8rmJ5m/giphy.gif" width="150" alt="Ash preparándose"/>
+<br>
+<sub><i>🎒 "¡Preparando la mochila para la aventura!"</i></sub>
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+### 🚀 **SECUENCIA DE INICIO**
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[🎮 Iniciar Pokédex] --> B[🔍 Ingresar Pokémon]
+    B --> C{🌐 Consultar PokéAPI}
+    C -->|✅ Encontrado| D[📊 Mostrar datos]
+    C -->|❌ No existe| E[⚠️ Pokémon no encontrado]
+    D --> F[🖼️ Cargar imagen]
+    E --> B
+    F --> G[✨ ¡Pokémon capturado!]
+    
+    style A fill:#ffeb3b,stroke:#f57f17,color:#000
+    style D fill:#4caf50,stroke:#388e3c,color:#fff
+    style G fill:#ff5722,stroke:#d84315,color:#fff
+```
+
+</div>
+
+---
+
+## 🏆 **LIGA POKÉMON** (Cómo contribuir)
+
+<div align="center">
+
+### 🥇 **GIMNASIOS DISPONIBLES**
+
+<table>
+<tr>
+<th>🔥 GIMNASIO ROCA</th>
+<th>💧 GIMNASIO AGUA</th>
+<th>⚡ GIMNASIO ELÉCTRICO</th>
+<th>🌿 GIMNASIO PLANTA</th>
+</tr>
+<tr>
+<td align="center">
+<strong>Bug Fixes</strong><br>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/74.png" width="60"><br>
+<small>Encuentra y repara errores</small>
+</td>
+<td align="center">
+<strong>Nuevas Features</strong><br>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png" width="60"><br>
+<small>Agrega funcionalidades</small>
+</td>
+<td align="center">
+<strong>Optimización</strong><br>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" width="60"><br>
+<small>Mejora el rendimiento</small>
+</td>
+<td align="center">
+<strong>Documentación</strong><br>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png" width="60"><br>
+<small>Mejora la documentación</small>
+</td>
+</tr>
+</table>
+
+</div>
+
+### 🎯 **MISIÓN PARA ENTRENADORE/AS**
+
+1. 🍴 **Captura este repositorio** (Fork)
+2. 🌿 **Crea una nueva rama** (`git checkout -b nueva-aventura`)
+3. ⚡ **Entrena tu código** (Commit cambios)
+4. 🚀 **Libera tu Pokémon** (Push)
+5. 🏆 **Desafía al líder** (Pull Request)
+
+---
+
+## 🌈 **EQUIPO POKÉMON** (Tecnologías)
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" width="100"><br>
+<strong>Python</strong><br>
+<sub>Tipo: ⚡ Eléctrico</sub><br>
+<small>El corazón de la aplicación</small>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png" width="100"><br>
+<strong>Tkinter</strong><br>
+<sub>Tipo: 💧 Agua</sub><br>
+<small>Interface gráfica fluida</small>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/144.png" width="100"><br>
+<strong>PokéAPI</strong><br>
+<sub>Tipo: 🧊 Hielo</sub><br>
+<small>Base de datos mundial</small>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png" width="100"><br>
+<strong>Requests</strong><br>
+<sub>Tipo: 🌟 Normal</sub><br>
+<small>Transformación de datos</small>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🎖️ **MEDALLAS OBTENIDAS** (Créditos)
+
+<div align="center">
+
+### 🏅 **HALL DE LA FAMA**
+
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rainbow-badge.png" width="40" alt="Medalla"> **Creado por**: Entrenador Pokémon Python<br>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/earth-badge.png" width="40" alt="Medalla"> **Powered by**: [PokéAPI](https://pokeapi.co/)<br>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/soul-badge.png" width="40" alt="Medalla"> **Construido con**: Python & Tkinter<br>
+
+<br>
+
+<!-- Sprites de agradecimiento -->
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/25.gif" width="60">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/133.gif" width="60">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/150.gif" width="60">
+
+<br>
+
+*"¡Gracias por ser parte de esta aventura Pokémon!"*
+
+</div>
+
+---
+
+## 📜 **LICENCIA POKÉMON**
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png" width="30" alt="TM">
+
+**Licencia MIT** - Úsalo, modifícalo, compártelo
+
+*"Con grandes poderes Pokémon, vienen grandes responsabilidades"*
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Pokemon+Solid&size=20&duration=3000&pause=1000&color=FFCB05&center=true&vCenter=true&width=500&lines=⚡+GRACIAS+POR+USAR+LA+POKÉDEX+⚡;🔥+¡HAZTE+MÁS+FUERTE+ENTRENADOR!+🔥;💎+GOTTA+CODE+'EM+ALL!+💎" alt="Mensaje final" />
+
+</div>
+
+<!-- Footer con Pokéballs -->
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=120&section=footer" />
+
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="30">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/great-ball.png" width="30">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ultra-ball.png" width="30">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/master-ball.png" width="30">
 </div>
