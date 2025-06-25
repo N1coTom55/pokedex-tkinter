@@ -43,6 +43,7 @@ Permite buscar Pokémon por nombre o ID mediante la [PokeAPI]( https://pokeapi.c
 
 ```bash
 pip install requests pillow
+```
 
 ## 📌 Recomendaciones adicionales
 
