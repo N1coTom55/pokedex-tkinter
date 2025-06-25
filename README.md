@@ -4,7 +4,9 @@ Este es un proyecto simple de Pokédex desarrollado en Python usando la bibliote
 
 ## 📷 Vista previa
 
-![image](https://github.com/user-attachments/assets/e9e2acfc-4c8f-4478-b0d6-a5c6527bb2de) ![image](https://github.com/user-attachments/assets/97bb28f5-7d49-4c66-8b5d-253154f60e48)
+![image](https://github.com/user-attachments/assets/e9e2acfc-4c8f-4478-b0d6-a5c6527bb2de) 
+
+![image](https://github.com/user-attachments/assets/97bb28f5-7d49-4c66-8b5d-253154f60e48)
 
 
 
