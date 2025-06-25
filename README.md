@@ -1,3 +1,6 @@
+![logo](https://github.com/user-attachments/assets/9afe6f27-d94f-4e35-bc94-b86f6157930f)
+
+
 # 🔍 Pokédex con Python y Tkinter
 
 ![Python](https://img.shields.io/badge/python-3.13%2B-blue?logo=python&style=flat-square)
