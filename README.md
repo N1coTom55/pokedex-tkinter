@@ -1,5 +1,6 @@
-![logo](https://github.com/user-attachments/assets/9afe6f27-d94f-4e35-bc94-b86f6157930f)
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/9afe6f27-d94f-4e35-bc94-b86f6157930f " alt="Pokédex Logo" width="200" />
+</div>
 
 # 🔍 Pokédex con Python y Tkinter
 
