@@ -5,7 +5,7 @@
 # 🔍 Pokédex con Python y Tkinter
 
 ![Python](https://img.shields.io/badge/python-3.13%2B-blue?logo=python&style=flat-square)
-![License]( https://img.shields.io/github/license/N1coTom55/pokedex-tkinter?style=flat-square)
+![License](https://img.shields.io/github/license/N1coTom55/pokedex-tkinter?style=flat-square)
 
 Este es un proyecto de **Pokédex desarrollado en Python** utilizando la biblioteca gráfica **Tkinter**.  
 Permite buscar Pokémon por nombre o ID mediante la [PokeAPI]( https://pokeapi.co/ ) y muestra su información completa junto con su imagen.
@@ -47,3 +47,8 @@ Permite buscar Pokémon por nombre o ID mediante la [PokeAPI]( https://pokeapi.c
 
 ```bash
 pip install requests pillow
+```
+
+## 📄 License
+
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
