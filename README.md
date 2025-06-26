@@ -4,7 +4,7 @@
 <!-- Header estilo Pokémon con logo y efectos -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&text=&fontSize=80&fontAlignY=40&animation=fadeIn" />
 
-<img src="https://github.com/user-attachments/assets/9afe6f27-d94f-4e35-bc94-b86f6157930f" alt="Pokédex Logo" width="200" />
+<img src="https://github.com/user-attachments/assets/9afe6f27-d94f-4e35-bc94-b86f6157930f" alt="Pokédex Logo" width="300" />
 
 <!-- Título con efecto Pokémon -->
 <h1>
@@ -213,20 +213,186 @@ pip install Pillow
 
 <div align="center">
 
-```mermaid
-graph LR
-    A[🎮 Iniciar Pokédex] --> B[🔍 Ingresar Pokémon]
-    B --> C{🌐 Consultar PokéAPI}
-    C -->|✅ Encontrado| D[📊 Mostrar datos]
-    C -->|❌ No existe| E[⚠️ Pokémon no encontrado]
-    D --> F[🖼️ Cargar imagen]
-    E --> B
-    F --> G[✨ ¡Pokémon capturado!]
-    
-    style A fill:#ffeb3b,stroke:#f57f17,color:#000
-    style D fill:#4caf50,stroke:#388e3c,color:#fff
-    style G fill:#ff5722,stroke:#d84315,color:#fff
+#### 🎮 **TUTORIAL DE ENTRENADOR**
+
+<table>
+<tr>
+<td width="20%" align="center">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="40"><br>
+<strong>PASO 1</strong><br>
+🎯 <strong>Iniciar Pokédex</strong><br>
+<small>Ejecuta el programa</small><br>
+<code>python pokedex.py</code>
+</td>
+<td width="5%" align="center">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/25.gif" width="40">
+</td>
+<td width="20%" align="center">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/great-ball.png" width="40"><br>
+<strong>PASO 2</strong><br>
+🔍 <strong>Buscar Pokémon</strong><br>
+<small>Nombre o número</small><br>
+<code>Pikachu</code> o <code>25</code>
+</td>
+<td width="5%" align="center">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/6.gif" width="40">
+</td>
+<td width="20%" align="center">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ultra-ball.png" width="40"><br>
+<strong>PASO 3</strong><br>
+🌐 <strong>Consultar API</strong><br>
+<small>Conexión automática</small><br>
+<code>PokéAPI.co</code>
+</td>
+<td width="5%" align="center">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/9.gif" width="40">
+</td>
+<td width="20%" align="center">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/master-ball.png" width="40"><br>
+<strong>PASO 4</strong><br>
+✨ <strong>¡Datos Listos!</strong><br>
+<small>Información completa</small><br>
+<code>Pokémon capturado</code>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+#### ⚡ **FLUJO DE COMBATE** (Proceso Técnico)
+
 ```
+🎮 POKÉDEX INICIADA
+        ↓
+🔍 ENTRADA DE USUARIO
+        ↓
+🌐 PETICIÓN A POKEAPI ────────┐
+        ↓                      │
+✅ RESPUESTA EXITOSA ────────────┼────────❌ POKÉMON NO ENCONTRADO
+        ↓                      │                    ↓
+📊 PROCESAR DATOS              │            ⚠️ MOSTRAR ERROR
+        ↓                      │                    ↓
+🖼️ CARGAR IMAGEN               │            🔄 NUEVA BÚSQUEDA
+        ↓                      │                    ↑
+📱 MOSTRAR EN INTERFACE        │                    │
+        ↓                      │                    │
+✨ ¡POKÉMON CAPTURADO! ────────┘────────────────────┘
+```
+
+</div>
+
+---
+
+<div align="center">
+
+#### 🎯 **COMANDOS DE ENTRENADOR**
+
+<table>
+<tr>
+<th>⚡ COMANDO</th>
+<th>📝 DESCRIPCIÓN</th>
+<th>💡 EJEMPLO</th>
+<th>🎮 RESULTADO</th>
+</tr>
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield/electric.png" width="30"><br>
+<strong>Por Nombre</strong>
+</td>
+<td>Busca usando el nombre del Pokémon</td>
+<td><code>pikachu</code><br><code>Charizard</code></td>
+<td>🔍 Búsqueda directa</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield/normal.png" width="30"><br>
+<strong>Por ID</strong>
+</td>
+<td>Busca usando número de Pokédex</td>
+<td><code>25</code><br><code>150</code></td>
+<td>📊 Búsqueda numérica</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield/psychic.png" width="30"><br>
+<strong>Auto-detección</strong>
+</td>
+<td>Detecta automáticamente el tipo</td>
+<td><code>001</code><br><code>mew</code></td>
+<td>🎯 Búsqueda inteligente</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+#### 🏆 **ESTADOS DE BATALLA** (Estados de la App)
+
+<table>
+<tr>
+<td width="25%" align="center">
+<img src="https://media.giphy.com/media/l0HlKrB02QY0f1mbm/giphy.gif" width="80"><br>
+<strong>🔄 CARGANDO</strong><br>
+<small>Conectando con PokéAPI</small><br>
+<code>Estado: Buscando...</code>
+</td>
+<td width="25%" align="center">
+<img src="https://media.giphy.com/media/msKNSs8rmJ5m/giphy.gif" width="80"><br>
+<strong>✅ ÉXITO</strong><br>
+<small>Pokémon encontrado</small><br>
+<code>Estado: ¡Capturado!</code>
+</td>
+<td width="25%" align="center">
+<img src="https://media.giphy.com/media/ZZkCo8zKWtt2ZgozfX/giphy.gif" width="80"><br>
+<strong>❌ ERROR</strong><br>
+<small>Pokémon no existe</small><br>
+<code>Estado: No encontrado</code>
+</td>
+<td width="25%" align="center">
+<img src="https://media.giphy.com/media/W04QVzelTHsNW/giphy.gif" width="80"><br>
+<strong>🎮 LISTO</strong><br>
+<small>Sistema preparado</small><br>
+<code>Estado: Esperando</code>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+#### ⚙️ **CONFIGURACIÓN DE ENTRENADOR**
+
+```bash
+# 🔥 Instalación Rápida (Recomendado)
+git clone https://github.com/tu-usuario/pokedex-python.git
+cd pokedex-python
+pip install -r requirements.txt
+python pokedex.py
+
+# ⚡ Instalación Manual
+pip install requests pillow
+python pokedex.py
+
+# 🎯 Modo Desarrollador
+python pokedex.py --debug
+```
+
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/25.gif" width="50">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/1.gif" width="50">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/4.gif" width="50">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/7.gif" width="50">
+
+<sub><i>🌟 "¡Elegí tu Pokémon inicial y comienza la aventura!"</i></sub>
 
 </div>
 
@@ -360,7 +526,7 @@ graph LR
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Pokemon+Solid&size=20&duration=3000&pause=1000&color=FFCB05&center=true&vCenter=true&width=500&lines=⚡+GRACIAS+POR+USAR+LA+POKÉDEX+⚡;🔥+¡HAZTE+MÁS+FUERTE+ENTRENADOR!+🔥;💎+GOTTA+CODE+'EM+ALL!+💎" alt="Mensaje final" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Pokemon+Solid&size=20&duration=3000&pause=1000&color=FFCB05&center=true&vCenter=true&width=500&lines=⚡+GRACIAS+POR+USAR+LA+POKÉDX+⚡;🔥+¡HAZTE+MÁS+FUERTE+ENTRENADOR!+🔥;💎+GOTTA+CODE+'EM+ALL!+💎" alt="Mensaje final" />
 
 </div>
 
