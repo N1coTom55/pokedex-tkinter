@@ -91,8 +91,8 @@ cualquier criatura que busques.
 
 ### 📱 **Interfaz Principal - Modo Explorador**
 
-<img src="https://github.com/user-attachments/assets/e9e2acfc-4c8f-4478-b0d6-a5c6527bb2de" width="50%" alt="Búsqueda de Pokémon"/>
-<img src="https://github.com/user-attachments/assets/97bb28f5-7d49-4c66-8b5d-253154f60e48" width="50%" alt="Información detallada"/>
+<img src="https://github.com/user-attachments/assets/e9e2acfc-4c8f-4478-b0d6-a5c6527bb2de" width="80%" alt="Búsqueda de Pokémon"/>
+<img src="https://github.com/user-attachments/assets/97bb28f5-7d49-4c66-8b5d-253154f60e48" width="80%" alt="Información detallada"/>
 
 <br>
 
