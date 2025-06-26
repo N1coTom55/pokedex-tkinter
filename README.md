@@ -4,7 +4,7 @@
 <!-- Header estilo Pokémon con logo y efectos -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&text=&fontSize=80&fontAlignY=40&animation=fadeIn" />
 
-<img src="https://github.com/user-attachments/assets/9afe6f27-d94f-4e35-bc94-b86f6157930f" alt="Pokédex Logo" width="120" />
+<img src="https://github.com/user-attachments/assets/9afe6f27-d94f-4e35-bc94-b86f6157930f" alt="Pokédex Logo" width="500" />
 
 <!-- Título con efecto Pokémon -->
 <h1>
