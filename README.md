@@ -248,23 +248,23 @@ graph LR
 <tr>
 <td align="center">
 <strong>Bug Fixes</strong><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/74.png" width="60"><br>
-<small>Encuentra y repara errores</small>
+🗿 <strong>GOLEM</strong><br>
+<small>Encuentra y repara errores<br>¡Resistente como una roca!</small>
 </td>
 <td align="center">
 <strong>Nuevas Features</strong><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png" width="60"><br>
-<small>Agrega funcionalidades</small>
+🌊 <strong>BLASTOISE</strong><br>
+<small>Agrega funcionalidades<br>¡Poder como un tsunami!</small>
 </td>
 <td align="center">
 <strong>Optimización</strong><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" width="60"><br>
-<small>Mejora el rendimiento</small>
+⚡ <strong>PIKACHU</strong><br>
+<small>Mejora el rendimiento<br>¡Velocidad de rayo!</small>
 </td>
 <td align="center">
 <strong>Documentación</strong><br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png" width="60"><br>
-<small>Mejora la documentación</small>
+🌱 <strong>BULBASAUR</strong><br>
+<small>Mejora la documentación<br>¡Crecimiento constante!</small>
 </td>
 </tr>
 </table>
@@ -288,27 +288,27 @@ graph LR
 <table>
 <tr>
 <td align="center">
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" width="100"><br>
+⚡<br>
 <strong>Python</strong><br>
-<sub>Tipo: ⚡ Eléctrico</sub><br>
+<sub>Tipo: 🔥 Eléctrico</sub><br>
 <small>El corazón de la aplicación</small>
 </td>
 <td align="center">
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png" width="100"><br>
+💧<br>
 <strong>Tkinter</strong><br>
-<sub>Tipo: 💧 Agua</sub><br>
+<sub>Tipo: 🌊 Agua</sub><br>
 <small>Interface gráfica fluida</small>
 </td>
 <td align="center">
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/144.png" width="100"><br>
+🧊<br>
 <strong>PokéAPI</strong><br>
-<sub>Tipo: 🧊 Hielo</sub><br>
+<sub>Tipo: ❄️ Hielo</sub><br>
 <small>Base de datos mundial</small>
 </td>
 <td align="center">
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png" width="100"><br>
+🌟<br>
 <strong>Requests</strong><br>
-<sub>Tipo: 🌟 Normal</sub><br>
+<sub>Tipo: ✨ Normal</sub><br>
 <small>Transformación de datos</small>
 </td>
 </tr>
@@ -324,9 +324,14 @@ graph LR
 
 ### 🏅 **HALL DE LA FAMA**
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rainbow-badge.png" width="40" alt="Medalla"> **Creado por**: Entrenador Pokémon Python<br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/earth-badge.png" width="40" alt="Medalla"> **Powered by**: [PokéAPI](https://pokeapi.co/)<br>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/soul-badge.png" width="40" alt="Medalla"> **Construido con**: Python & Tkinter<br>
+🥇 **Medalla de Desarrollo** - **Creado por**: Entrenador Pokémon Python<br>
+🥈 **Medalla de Datos** - **Powered by**: [PokéAPI](https://pokeapi.co/)<br>
+🥉 **Medalla de Tecnología** - **Construido con**: Python & Tkinter<br>
+🏆 **Medalla de Comunidad** - **Open Source**: MIT License<br>
+⭐ **Medalla de Excelencia** - **Pokédex Completa**: 1000+ Pokémon<br>
+🎯 **Medalla de Precisión** - **100% Datos Oficiales**<br>
+💎 **Medalla Especial** - **Interface Intuitiva**<br>
+🚀 **Medalla de Innovación** - **Threading Avanzado**<br>
 
 <br>
 
