@@ -4,11 +4,12 @@
 <!-- Header estilo Pokémon con logo y efectos -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&text=&fontSize=80&fontAlignY=40&animation=fadeIn" />
 
-<img src="https://github.com/user-attachments/assets/9afe6f27-d94f-4e35-bc94-b86f6157930f" alt="Pokédex Logo" width="300" />
+<!-- Nuevo logo de Pokédex -->
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABQAAAAGACAYAAADsOlWUAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAOwwAADsMBx2+oZAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAACAASURBVHic7d17lB1Vde/9702SznN3ku4k3Unk0QmJCSBBCKggICAoKCIqKCoq" alt="Pokédx Logo" width="400" />
 
 <!-- Título con efecto Pokémon -->
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pokemon+Solid&size=40&duration=2000&pause=500&color=FFCB05&center=true&vCenter=true&repeat=true&width=600&height=80&lines=⚡+POKÉDEX+DIGITAL+⚡;🔥+PYTHON+EDITION+🔥;💎+GOTTA+CODE+EM+ALL+💎" alt="Pokemon Title" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pokemon+Solid&size=40&duration=2000&pause=500&color=FFCB05&center=true&vCenter=true&repeat=true&width=600&height=80&lines=⚡+POKÉDX+DIGITAL+⚡;🔥+PYTHON+EDITION+🔥;💎+GOTTA+CODE+EM+ALL+💎" alt="Pokemon Title" />
 </h1>
 
 <!-- Pokémon sprites animados -->
@@ -38,7 +39,7 @@
 
 </div>
 
-## 🌟 **ENTRADA DE LA POKÉDEX**
+## 🌟 **ENTRADA DE LA POKÉDX**
 
 <div align="center">
 <table>
@@ -46,11 +47,11 @@
 <td width="60%">
 
 ```yaml
-🔴 POKÉDEX NACIONAL - ENTRADA #001
+🔴 POKÉDX NACIONAL - ENTRADA #001
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-📱 DISPOSITIVO: Pokédex Digital Python
-🏷️  NOMBRE: Pokédex Tkinter Edition
+📱 DISPOSITIVO: Pokédx Digital Python
+🏷️  NOMBRE: Pokédx Tkinter Edition
 🎯 TIPO: Aplicación/Utilidad
 📊 ESTADÍSTICAS:
    • Velocidad de búsqueda: ⭐⭐⭐⭐⭐
@@ -59,7 +60,7 @@
    • Diseño visual: ⭐⭐⭐⭐⭐
 
 🔹 DESCRIPCIÓN:
-Una Pokédex digital que conecta con la 
+Una Pokédx digital que conecta con la 
 base de datos mundial de Pokémon para 
 brindarte información completa sobre 
 cualquier criatura que busques.
@@ -75,9 +76,9 @@ cualquier criatura que busques.
 <td width="40%">
 
 <div align="center">
-  <img src="https://media.giphy.com/media/W04QVzelTHsNW/giphy.gif" width="200" alt="Pokédex Gif"/>
+  <img src="https://media.giphy.com/media/W04QVzelTHsNW/giphy.gif" width="200" alt="Pokédx Gif"/>
   <br>
-  <sub><i>🎮 "Esta Pokédex contiene datos de todos los Pokémon conocidos"</i></sub>
+  <sub><i>🎮 "Esta Pokédx contiene datos de todos los Pokémon conocidos"</i></sub>
 </div>
 
 </td>
@@ -96,7 +97,7 @@ cualquier criatura que busques.
 
 <br>
 
-*🔍 Busca cualquier Pokémon por nombre o número de la Pokédex Nacional*
+*🔍 Busca cualquier Pokémon por nombre o número de la Pokédx Nacional*
 
 </div>
 
@@ -220,9 +221,9 @@ pip install Pillow
 <td width="20%" align="center">
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="40"><br>
 <strong>PASO 1</strong><br>
-🎯 <strong>Iniciar Pokédex</strong><br>
+🎯 <strong>Iniciar Pokédx</strong><br>
 <small>Ejecuta el programa</small><br>
-<code>python pokedex.py</code>
+<code>python pokedx.py</code>
 </td>
 <td width="5%" align="center">
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/25.gif" width="40">
@@ -266,7 +267,7 @@ pip install Pillow
 #### ⚡ **FLUJO DE COMBATE** (Proceso Técnico)
 
 ```
-🎮 POKÉDEX INICIADA
+🎮 POKÉDX INICIADA
         ↓
 🔍 ENTRADA DE USUARIO
         ↓
@@ -312,7 +313,7 @@ pip install Pillow
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield/normal.png" width="30"><br>
 <strong>Por ID</strong>
 </td>
-<td>Busca usando número de Pokédex</td>
+<td>Busca usando número de Pokédx</td>
 <td><code>25</code><br><code>150</code></td>
 <td>📊 Búsqueda numérica</td>
 </tr>
@@ -374,17 +375,17 @@ pip install Pillow
 
 ```bash
 # 🔥 Instalación Rápida (Recomendado)
-git clone https://github.com/tu-usuario/pokedex-python.git
-cd pokedex-python
+git clone https://github.com/tu-usuario/pokedx-python.git
+cd pokedx-python
 pip install -r requirements.txt
-python pokedex.py
+python pokedx.py
 
 # ⚡ Instalación Manual
 pip install requests pillow
-python pokedex.py
+python pokedx.py
 
 # 🎯 Modo Desarrollador
-python pokedex.py --debug
+python pokedx.py --debug
 ```
 
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/25.gif" width="50">
@@ -494,7 +495,7 @@ python pokedex.py --debug
 🥈 **Medalla de Datos** - **Powered by**: [PokéAPI](https://pokeapi.co/)<br>
 🥉 **Medalla de Tecnología** - **Construido con**: Python & Tkinter<br>
 🏆 **Medalla de Comunidad** - **Open Source**: MIT License<br>
-⭐ **Medalla de Excelencia** - **Pokédex Completa**: 1000+ Pokémon<br>
+⭐ **Medalla de Excelencia** - **Pokédx Completa**: 1000+ Pokémon<br>
 🎯 **Medalla de Precisión** - **100% Datos Oficiales**<br>
 💎 **Medalla Especial** - **Interface Intuitiva**<br>
 🚀 **Medalla de Innovación** - **Threading Avanzado**<br>
