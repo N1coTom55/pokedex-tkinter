@@ -5,8 +5,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&text=&fontSize=80&fontAlignY=40&animation=fadeIn" />
 
 <div align="center">
-  <img src="https://github.com/N1coTom55/pokedex-tkinter/assets/ID/![pokedex-logo](https://github.com/user-attachments/assets/98da9eab-d018-4cc6-98ef-24b1cd6e6cc0)
- " alt="Pokédex Logo" width="200" />
+  <img src="![pokedex-logo](https://github.com/user-attachments/assets/0fcc35a1-e5fa-45ae-8626-1e5f58459d4c)
+" alt="Pokédex Logo" width="200" />
 </div>
 
 <!-- Título con efecto Pokémon -->
